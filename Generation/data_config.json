@@ -1,0 +1,8 @@
+{
+    "data_path": "/path/to/EEG2Img-Contrastive-Decoding/Data/Preprocessed_data_250Hz",
+    "img_directory_training": "/path/to/EEG2Img-Contrastive-Decoding/Data/training_images",
+    
+    "img_directory_test": "/path/to/EEG2Img-Contrastive-Decoding/Data/generated_imgs",
+    "features_path":"/path/to/EEG2Img-Contrastive-Decoding/Data"
+}
+
