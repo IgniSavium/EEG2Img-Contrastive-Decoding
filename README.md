@@ -1,4 +1,3 @@
-<div align="center">
 <h2 style="border-bottom: 1px solid lightgray;">🧠EEG2Img-Contrastive-Decoding</h2>
 
 <p align="center">
